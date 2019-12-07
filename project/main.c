@@ -22,7 +22,7 @@ int main(void){
 		printf("You may pick up the pi.\n");
 		printf("To stop, push enter on the joystick at any time.\n");
 		while(run && getGyroPosition(gyro,&xyz)){
-			if(cnt == 5){
+			if(cnt == 3){
 				cnt = 0;
 				xAngle = xyz.x;
 				yAngle = xyz.y;
