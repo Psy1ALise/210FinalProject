@@ -1,8 +1,5 @@
 # Gyroscope
-<<<<<<< HEAD
 
-=======
->>>>>>> 9e5343bb2d96ea0369c062ab938537068872cf0f
 
 After running the program, the pi will work like a gyroscope to show how the plane is tilted.
 
