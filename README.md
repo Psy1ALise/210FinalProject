@@ -7,3 +7,5 @@ Just use make all command. It will generate 3 programs gyroblock, inputtest and 
 make run command will run the gyroblock program.
 
 make clean command will remove all programs and .o files.
+
+PS: This is the UD CISC210 Final Project
